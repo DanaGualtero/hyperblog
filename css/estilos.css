@@ -4,7 +4,7 @@ body
     color:#333;
     text-align:center;
     font-family:Arial ;
-    font-size:16px;
+    font-size:18px;
     margin:0;
     padding:0;
 }
@@ -31,9 +31,13 @@ body
 }
 #container h1
      {
-    font-size:20px}
+    font-size:22px}
     
     #post
     {
         padding:1em
     }
+    #logo{width:30px;
+        vertical-align:middle}
+        
+        
